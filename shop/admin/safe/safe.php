@@ -1,0 +1,10 @@
+<?php
+  session_start();
+  if( !isset( $_SESSION["admin"]) )
+  { 
+	echo "<SCRIPT language=javascript>alert(\"ÇëÏÈµÇÂ½£¡\");</SCRIPT>";
+	echo "<script>window.location.href='../login.php';</script>";
+	exit();
+  }
+
+?>
