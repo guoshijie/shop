@@ -15,7 +15,7 @@
 ![](http://okxwqy15v.bkt.clouddn.com/%E4%B8%AD%E5%8C%97%E4%BA%8C%E6%89%8B%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0-%E5%85%8D%E8%B4%B9%E5%8F%91%E5%B8%83.png)
 
 ####后台首页
-![](http://okxwqy15v.bkt.clouddn.com/%E4%B8%AD%E5%8C%97%E4%BA%8C%E6%89%8B%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0-mgmt.png)
+![](https://github.com/guoshijie/shop/blob/master/screenshots/%E4%B8%AD%E5%8C%97%E4%BA%8C%E6%89%8B%E4%BA%A4%E6%98%93%E5%B9%B3%E5%8F%B0-%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5.png)
 
 
 
